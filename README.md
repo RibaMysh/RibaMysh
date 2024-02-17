@@ -1,5 +1,5 @@
-### Hi there 👋
+																																										Hi there, I'm Max
 
-- 🤔 I’m looking for help with mentaly problems
+- 🤔 'm currently studing Artificial intelligence & Computer Science
 - 💬 Ask me about sport
-- 😄 Pronouns: Kachka
+- 🐍 Python/Java enjoyer
